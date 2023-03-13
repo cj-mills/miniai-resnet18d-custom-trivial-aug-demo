@@ -10,7 +10,7 @@
 | Baseline (no augmentation)                                   | [https://cj-mills.github.io/miniai-resnet18d-baseline-demo/](https://cj-mills.github.io/miniai-resnet18d-baseline-demo/) |
 | Random Square Copy                                           | [https://cj-mills.github.io/miniai-resnet18d-rand-square-cp-demo/](https://cj-mills.github.io/miniai-resnet18d-rand-square-cp-demo/) |
 | Random Pixel Copy                                            | [https://cj-mills.github.io/miniai-resnet18d-rand-pixel-cp-demo/](https://cj-mills.github.io/miniai-resnet18d-rand-pixel-cp-demo/) |
-| Random Square Pixel Copy                                     | [https://cj-mills.github.io/miniai-resnet18d-rand-pixel-cp-demo/](https://cj-mills.github.io/miniai-resnet18d-rand-pixel-cp-demo/) |
+| Random Square Pixel Copy                                     | [https://cj-mills.github.io/miniai-resnet18d-rand-square-pixel-cp-demo/](https://cj-mills.github.io/miniai-resnet18d-rand-square-pixel-cp-demo/) |
 | [TrivialAugmentWide](https://pytorch.org/vision/main/generated/torchvision.transforms.TrivialAugmentWide.html) | [https://cj-mills.github.io/miniai-resnet18d-trivial-aug-demo/](https://cj-mills.github.io/miniai-resnet18d-trivial-aug-demo/) |
 | Custom Trivial Augment                                       | [https://cj-mills.github.io/miniai-resnet18d-custom-trivial-aug-demo/](https://cj-mills.github.io/miniai-resnet18d-custom-trivial-aug-demo/) |
 
