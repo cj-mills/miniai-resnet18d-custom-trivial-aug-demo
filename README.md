@@ -1,2 +1,2 @@
-# miniai-data-aug-experiments-live-demo-1
+# miniai-resnet18d-custom-trivial-aug-demo
  An in-browser demo to compare models trained with different data augmentations
